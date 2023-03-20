@@ -1,9 +1,9 @@
 {
-    "Identifier": "",
-    "Slug": "",
-    "Status": "",
-    "Title": "",
-    "Description": "",
+    "Identifier": "eos3hbv",
+    "Slug": "malaria-model",
+    "Status": "In progress",
+    "Title": "My malaria model",
+    "Description": "Prediction of the antimalarial potential of small molecules.",
     "Mode": "",
     "Task": [],
     "Input": [],
@@ -12,8 +12,11 @@
     "Output Type": [],
     "Output Shape": "",
     "Interpretation": "",
-    "Tag": [],
-    "Publication": "",
-    "Source Code": "",
-    "License": ""
+    "Tag": [
+        "Malaria",
+        "P.falciparum"
+    ],
+    "Publication": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00487-2",
+    "Source Code": null,
+    "License": "MIT"
 }
